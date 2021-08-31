@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Loizage
+- 👋 Hi, I’m Zhan Ganiev
 - 👀 I’m interested in Blockchain solutions
 - 🌱 I’m currently learning Smart Contract Development
 - 💞️ I’m looking to collaborate on development of DeFi project
